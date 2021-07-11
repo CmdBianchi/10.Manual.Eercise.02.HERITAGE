@@ -34,5 +34,6 @@ namespace _10.Manual.Eercise._02.HERITAGE {
                 Console.WriteLine("Update!");
 
             }
+        }
     }
 }
